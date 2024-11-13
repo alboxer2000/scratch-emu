@@ -1,0 +1,1 @@
+{“objName”:“Stage”, “children”: [{“objName”:“project” ,“variables”: ,“scripts”:[ [ 69 , 37 , [  ,  ,  ,  , [“doForever” ,[ [“warpSpeed” ,[  ,  ,  ,  ,  ,  ,  , [“doRepeat” , “360” ,[  ,  ] ] ,  , [“doIf” , [“not” ,  , “0” ] ] ,[  ,  , [“turnRight:” , [“*” ,  ,  ] ] ,  ,  ] ] ] ] ,  ,  , [“doIf” ,  , “60” ] ,[  ] ] ,  ] ] ]] ] }],“info”:{} }
